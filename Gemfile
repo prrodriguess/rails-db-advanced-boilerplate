@@ -22,6 +22,7 @@ gem 'redis', '~> 4.0'
 gem 'activerecord-import'
 gem 'faker'
 gem 'rails_admin', '~> 2.0'
+gem 'blazer'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
